@@ -1,7 +1,3 @@
-Below is a final, detailed README section that incorporates all the elements previously discussed, references an architecture diagram located at `podcasting/public/Digital Human Blueprint Diagram.png`, and fully articulates the project's vision, capabilities, and future plans.
-
----
-
 # AudioPaperCast
 
 **AudioPaperCast** is an open-source concept demonstrating how large language models (LLMs) can transform an academic research paper into a fully produced two-person podcast conversation—without any manual coding. Every step of this project’s conceptualization has been guided by AI, from setting directory structures to defining prompt templates and pipeline steps.
