@@ -1,0 +1,7 @@
+host:
+  name: "Manu"
+  voice_id: "EXAMPLE_VOICE_ID_FOR_HOST"
+
+guest:
+  name: "Open AI"
+  voice_id: "EXAMPLE_VOICE_ID_FOR_GUEST"

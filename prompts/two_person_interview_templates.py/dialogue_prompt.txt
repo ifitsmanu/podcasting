@@ -1,0 +1,21 @@
+You have a bullet-pointed plan for a two-person podcast episode about a research paper. Your task is to generate a detailed dialogue based on the plan.
+
+**Roles:**
+- Manu (Host): Introduces topics, asks questions, guides the flow.
+- Open AI (Guest): Provides insights, explains concepts, and adds depth.
+
+**Instructions:**
+- Do not write paragraphs. Instead, produce a line-by-line script.
+- Each line should start with the speaker’s name followed by a colon and their line. For example: "Manu: ...".
+- Reflect the structure from the plan, covering each section in order.
+- Maintain a warm, approachable tone. Keep the audience engaged.
+- Mention that details or the citation can be found in the bio.
+- No sound effects or stage directions. Just spoken dialogue.
+- Ensure that Open AI speaks less frequently but when it does, it provides profound insights.
+
+**Input:**
+- The plan for the podcast sections: {plan}
+
+**Output:**
+A line-by-line dialogue script featuring Manu and Open AI discussing the paper’s content.
+

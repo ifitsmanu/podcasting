@@ -1,0 +1,21 @@
+model:
+  name: "gpt-4o"
+  temperature: 0.7
+  max_tokens: 200000
+  top_p: 1.0
+  frequency_penalty: 0.0
+  presence_penalty: 0.0
+
+text_splitter:
+  chunk_size: 1000
+  chunk_overlap: 200
+
+llm_client:
+  # Additional LLM-related settings can go here if needed
+  retries: 3
+  timeout_seconds: 30
+
+output:
+  # Directory or naming patterns for outputs
+  script_filename_pattern: "script_{timestamp}.txt"
+  audio_filename_pattern: "segment_{index}_{speaker}.mp3"

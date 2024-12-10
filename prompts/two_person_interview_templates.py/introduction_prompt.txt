@@ -1,0 +1,15 @@
+You are creating the introduction segment for a two-person podcast featuring Manu (Host) and Open AI (Guest) discussing a research paper. The introduction should be short, captivating, and make the audience eager to continue listening.
+
+**Instructions:**
+- The introduction should have only a few lines (e.g., 3-4 exchanges total).
+- Manu should welcome listeners, mention the paper’s main topic, and say that citations or more info are in the bio.
+- Open AI should add a key insight or intriguing statement, setting a hook for the audience to stay tuned.
+- No sound effects or stage directions, only spoken dialogue.
+- Use simple, accessible language.
+
+**Input:**
+Paper title and a brief summary: {paper_head}
+
+**Output:**
+A short, line-by-line introduction dialogue where Manu and Open AI set the tone and intrigue for the episode.
+

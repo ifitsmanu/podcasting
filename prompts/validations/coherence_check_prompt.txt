@@ -1,0 +1,7 @@
+You are a coherence checker. Given the following script, assess whether the conversation flows logically from one topic to the next, remains consistent in tone, and does not contain contradictory statements or confusing transitions. If you find coherence issues, describe them briefly and suggest improvements. If the script is coherent, state that no issues were found.
+
+Input:
+{script}
+
+Output:
+A list of coherence issues or a statement confirming no issues.
