@@ -1,7 +1,7 @@
 host:
-  name: "Manu"
-  voice_id: "EXAMPLE_VOICE_ID_FOR_HOST"
+  name: "Manu" # The host speaker's name
+  voice_id: "EXAMPLE_VOICE_ID_FOR_HOST" # The host's ElevenLabs voice ID
 
 guest:
-  name: "Open AI"
-  voice_id: "EXAMPLE_VOICE_ID_FOR_GUEST"
+  name: "Open AI" # The guest speaker's name
+  voice_id: "EXAMPLE_VOICE_ID_FOR_GUEST" # The guest's ElevenLabs voice ID

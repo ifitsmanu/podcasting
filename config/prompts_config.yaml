@@ -1,15 +1,12 @@
 prompts:
   style: "conversational"
   tone: "friendly"
-  complexity_level: "medium"  # e.g., 'simple', 'medium', 'advanced'
-  insert_citations_note: true # if true, mentions "citations in the bio" in the introduction
-  
-  # These could be used to inject certain phrases or ensure key instructions are always included
+  complexity_level: "medium"
+  insert_citations_note: true
   required_phrases:
     - "For more details, please see the citation in the bio."
-    - "Manu"     # Ensure the host’s name is always used correctly
-    - "Open AI"   # Ensure the guest’s name is always used correctly
-
+    - "Manu"
+    - "Open AI"
   fallback_prompt: "If you're unsure, provide a concise explanation."
 
 limits:

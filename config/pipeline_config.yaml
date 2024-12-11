@@ -4,15 +4,15 @@ pipeline:
     - generate_plan
     - generate_dialogue
     - enhance_script
-    - validate_script  # optional, can be commented out if not needed
+    - validate_script
     - generate_audio
     - merge_audio
 
 options:
   use_enhancement: true
-  use_validation: false  # Set to true to run fact/coherence checks
-  run_in_stream_mode: false # If true, tries to produce audio line-by-line as it’s generated
-  
+  use_validation: false
+  run_in_stream_mode: false
+
 defaults:
   output_directory: "sample_outputs/"
   language: "en"
